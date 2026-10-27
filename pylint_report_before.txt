@@ -22,6 +22,6 @@ library_system.py:47:0: C0116: Missing function or method docstring (missing-fun
 library_system.py:52:0: C0116: Missing function or method docstring (missing-function-docstring)
 library_system.py:2:0: W0611: Unused import os (unused-import)
 
------------------------------------
-Your code has been rated at 6.07/10
+------------------------------------------------------------------
+Your code has been rated at 6.07/10 (previous run: 6.07/10, +0.00)
 
